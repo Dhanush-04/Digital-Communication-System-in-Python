@@ -8,7 +8,13 @@ Hamming Coding: Provides error detection and correction using Hamming codes to e
 Huffman Coding: Utilizes Huffman coding for compression, reducing the size of the encoded audio data.
 Audio Reconstruction: Reconstructs the original audio signal after decoding.
 
-[Play Initial Voice Signal](link-to-initial-voice-signal-audio-file.mp3)
+[Play Initial Voice Signal](## Audio Example
+
+<audio controls>
+  <source src=" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
+)
 
 [Play Final Voice Signal](link-to-initial-voice-signal-audio-file.mp3)
 
