@@ -7,6 +7,7 @@ BPSK Modulation: Implements Binary Phase Shift Keying modulation for encoding au
 Hamming Coding: Provides error detection and correction using Hamming codes to enhance the reliability of the transmitted data.
 Huffman Coding: Utilizes Huffman coding for compression, reducing the size of the encoded audio data.
 Audio Reconstruction: Reconstructs the original audio signal after decoding.
+
 [Play Initial Voice Signal](link-to-initial-voice-signal-audio-file.mp3)
 
 [Play Final Voice Signal](link-to-initial-voice-signal-audio-file.mp3)
